@@ -11,11 +11,6 @@
 <h4>Desktop</h4>
 <a href="https://julianastahelin.github.io/quest-react-base/"><img src="design/design-desktop.gif" alt="gif of project being displayed and used on desktop"></a>
 
-<h3>Link</h3>
-<ul>
-    <li>Live site URL: <a href="https://julianastahelin.github.io/quest-react-base/">https://julianastahelin.github.io/quest-react-base/</a></li>
-</ul>
-
 <h2>My process</h2>
 
 <h3>Built with 👩🏽‍💻</h3>
