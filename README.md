@@ -14,7 +14,6 @@
 <h3>Link</h3>
 <ul>
     <li>Live site URL: <a href="https://julianastahelin.github.io/quest-react-base/">https://julianastahelin.github.io/quest-react-base/</a></li>
-    <li>GitHub API documentation: <a href="https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28">https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28</a></li>
 </ul>
 
 <h2>My process</h2>
