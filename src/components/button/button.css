@@ -1,0 +1,16 @@
+.button {
+    background-color: #023535;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button:hover {
+    transform: scale(1.05);
+    transition: ease-in-out 0.3s;
+    cursor: pointer;
+    opacity: 0.8;
+}
