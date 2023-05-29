@@ -1,4 +1,4 @@
-.button {
+.alert-button {
     background-color: #023535;
     color: #fff;
     border-radius: 10px;
@@ -8,7 +8,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.button:hover {
+.alert-button:hover {
     transform: scale(1.05);
     transition: ease-in-out 0.3s;
     cursor: pointer;

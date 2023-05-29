@@ -1,12 +1,11 @@
-import './App.css';
-import Paragraph from './components/paragraph/paragraph';
-import Button from './components/button/button';
+import StyledText from './components/StyledText';
+import AlertButton from './components/AlertButton';
 
 function App() {
   return (
     <div className="App">
-      <Paragraph text='Hello, world! I am a paragraph 🙂' color='#008F8C'/>
-      <Button label="Click me!" />
+      <StyledText text='Hello, world! I am a paragraph 🙂' color='#008F8C'/>
+      <AlertButton label="Click me!" />
     </div>
   );
 }
